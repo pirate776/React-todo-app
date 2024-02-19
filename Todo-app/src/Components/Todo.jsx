@@ -4,7 +4,7 @@ import TodoList from "./TodoList";
 export default function Todo(){
     const[Todos,setTodos] = useState([]);
     return (
-        <div>        
+        <div >        
            <Form Todos = {Todos} setTodos = {setTodos} />
            <TodoList Todos = {Todos} /> 
         </div>
