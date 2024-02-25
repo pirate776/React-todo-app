@@ -21,4 +21,9 @@
     background-color: #f7ca18;
     border: none;
     color: white;
+    margin-top: -5px;
+    border-radius: 6px;
+    cursor: pointer;
+    cursor:pointer; 
+
 }
